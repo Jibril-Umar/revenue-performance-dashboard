@@ -3,7 +3,7 @@
 ## 📌 Dashboard Overview
 This Power BI dashboard tracks $623.45M in total revenue across 2,000 orders, offering detailed breakdowns by region, sales representative, product category, and payment method.
 
-![Revenue Dashboard](dashboard.png)
+![Revenue Dashboard](https://github.com/Jibril-Umar/revenue-performance-dashboard/blob/main/dashboard33.PNG?raw=true)
 
 ## 🛠️ Tools & Technologies Used
 * **Power BI:** Data modeling, DAX measures, and visual dashboard design.
