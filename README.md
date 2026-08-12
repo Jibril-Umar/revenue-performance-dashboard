@@ -21,7 +21,7 @@ This Power BI dashboard tracks $623.45M in total revenue across 2,000 orders, of
 ## 📌 Dashboard Overview
 An end-to-end sales performance dashboard analyzing **$32.87M in total revenue** and **1.64M in total profit** across global regions, product categories, and payment preferences.
 
-![Amazon Sales Analysis](amazon-sales-analysis.png)
+![Amazon Sales Analysis](https://github.com/Jibril-Umar/revenue-performance-dashboard/blob/main/Amazon%20sales%20analysis.PNG?raw=true)
 
 ## 🔑 Key Metrics & Performance Highlights
 * **Total Revenue:** $32.87M
